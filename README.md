@@ -51,7 +51,7 @@ OnlineFashionStore/
 ├── studio.html
 ├── style.css
 ├── utils.css
-├── image1.png
-├── image2.png
+├── category1.png
+├── category2.png
 ├── ... (more image files)
 └── README.md
